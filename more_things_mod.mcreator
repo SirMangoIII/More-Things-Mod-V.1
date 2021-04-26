@@ -1,0 +1,39 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "BaseAchievement",
+      "type": "achievement",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "base_achievement"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "advancements.base_achievement.descr": "Played SirMangoIII and NathanXD\u0027s \"More Things Mod\"",
+      "advancements.base_achievement.title": "Base Achievement"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "more_things_mod",
+    "modName": "More Things Mod",
+    "version": "1.0.0",
+    "author": "terry, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.morethingsmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}
