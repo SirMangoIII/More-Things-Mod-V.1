@@ -9,15 +9,6 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "base_achievement"
-    },
-    {
-      "name": "Test",
-      "type": "enchantment",
-      "sortid": 2,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "test"
     }
   ],
   "variable_elements": [],
@@ -25,13 +16,17 @@
   "language_map": {
     "en_us": {
       "advancements.base_achievement.descr": "Played SirMangoIII and NathanXD\u0027s \"More Things Mod\"",
-      "advancements.base_achievement.title": "Base Achievement",
-      "enchantment.more_things_mod.test": "Test"
+      "advancements.base_achievement.title": "Base Achievement"
     }
   },
   "foldersRoot": {
     "name": "~",
-    "children": []
+    "children": [
+      {
+        "name": "NathanXDs Elements",
+        "children": []
+      }
+    ]
   },
   "workspaceSettings": {
     "modid": "more_things_mod",
